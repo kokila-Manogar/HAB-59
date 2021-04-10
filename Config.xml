@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.phonegap.example"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!--  Android only --!>
+
+  <name>Friend of Farmers</name>
+
+  <description>
+This application is 
+  </description>
+
+  <author href="https://www.blogger.com/blog/post/edit/2334434245361118300/8614887383263394174" email="kokilamyself@gmail.com">
+      Team of Friend of Farmers
+  </author>
+
+</widget>
+
